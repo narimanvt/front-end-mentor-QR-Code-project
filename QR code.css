@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(205, 210, 222);
+}
+.Qrcode{
+    width: 270px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 41%;
+    margin-top: 10%;
+    background-color: rgba(255, 255, 255, 0.871);
+    padding: 10px;
+    border-radius: 4%;
+
+}
+
+.Qrcode img {
+    margin-left:12px;
+    margin-right:12px;
+    margin-top:5px;
+    border-radius: 4%;
+}
+
+.Qrcode h1 {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+.Qrcode div {
+    text-align: center;
+    padding-bottom: 13px;
+    
+}
+
+.Qrcode div p{
+    color:rgba(40, 40, 40, 0.577);
+    font-size: 15px;
+}
